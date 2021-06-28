@@ -1,0 +1,10 @@
+{
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+"editor.formatOnSave": true,
+"editor.codeActionsOnSave": {
+  "source.fixAll.eslint": true
+}
+}
